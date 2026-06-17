@@ -1,5 +1,5 @@
 [README (2).md](https://github.com/user-attachments/files/29031775/README.2.md)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+in+Training;Python+%7C+JavaScript+%7C+React;Building+Responsive+Web+Applications)](https://github.com/sathyasudar1705-boop)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Python+%7C+JavaScript+%7C+React;Building+Responsive+Web+Applications)](https://github.com/sathyasudar1705-boop)
 
 ---
 
@@ -12,7 +12,7 @@ class SathyaSudar:
         self.location = "Chennai, India"
         self.role = "Full Stack Trainee"
         self.email = "sathyasudar1705@gmail.com"
-        self.education = "B.Tech (Full Stack) - Freshworks STS Software Academy"
+        self.education = ["B.Sc-Chemistry","Full Stack Course - Freshworks STS Software Academy"]
         self.github = "https://github.com/sathyasudar1705-boop"
         self.linkedin = "https://linkedin.com/in/sathya-sudar-29bb00374"
         
