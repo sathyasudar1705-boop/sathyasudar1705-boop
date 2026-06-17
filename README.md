@@ -128,7 +128,8 @@ me = SathyaSudar()
 
 | Project | Tech Stack | Description | Links |
 |---------|-----------|-------------|-------|
-| **Origin X** | FastAPI, React, MongoDB, Express.js | Full-stack job portal enabling users to browse/apply for jobs and companies to post listings. Integrated frontend with backend APIs and database connectivity. | [View](https://github.com/sathyasudar1705-boop) |
+| **Origin X** | FastAPI, React, MongoDB, Express.js | Full-stack job portal enabling users to browse/apply for jobs and companies to post listings. Integrated frontend with backend APIs and database connectivity. | [View](https://sathyasudar1705-boop.github.io/Origin-Frontend/
+) |
 | **The Aqua Shop** | HTML5, CSS3, JavaScript | Responsive e-commerce website for fish accessories with modern product display sections and optimized user experience. | [View](https://github.com/sathyasudar1705-boop) |
 | **My Portfolio** | HTML5, CSS3, JavaScript | Clean, structured personal portfolio website showcasing profile, technical skills, and project portfolio with responsive design. | [View](https://github.com/sathyasudar1705-boop) |
 
