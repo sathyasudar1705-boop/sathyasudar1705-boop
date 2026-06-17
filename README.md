@@ -128,10 +128,9 @@ me = SathyaSudar()
 
 | Project | Tech Stack | Description | Links |
 |---------|-----------|-------------|-------|
-| **Origin X** | FastAPI, React, MongoDB, Express.js | Full-stack job portal enabling users to browse/apply for jobs and companies to post listings. Integrated frontend with backend APIs and database connectivity. | [View](https://sathyasudar1705-boop.github.io/Origin-Frontend/
-) |
-| **The Aqua Shop** | HTML5, CSS3, JavaScript | Responsive e-commerce website for fish accessories with modern product display sections and optimized user experience. | [View](https://github.com/sathyasudar1705-boop) |
-| **My Portfolio** | HTML5, CSS3, JavaScript | Clean, structured personal portfolio website showcasing profile, technical skills, and project portfolio with responsive design. | [View](https://github.com/sathyasudar1705-boop) |
+| **Origin X** | FastAPI, React, MongoDB, Express.js | Full-stack job portal enabling users to browse/apply for jobs and companies to post listings. Integrated frontend with backend APIs and database connectivity. | [View](https://sathyasudar1705-boop.github.io/Origin-Frontend/) |
+| **The Aqua Shop** | HTML5, CSS3, JavaScript | Responsive e-commerce website for fish accessories with modern product display sections and optimized user experience. | [View](https://sathyasudar1705-boop.github.io/Aquarium/) |
+| **My Portfolio** | HTML5, CSS3, JavaScript | Clean, structured personal portfolio website showcasing profile, technical skills, and project portfolio with responsive design. | [View](https://sathyasudar1705-boop.github.io/portfolio/) |
 
 </div>
 
@@ -176,9 +175,9 @@ me = SathyaSudar()
 
 ## 💡 My Philosophy
 
-> "Code with purpose, create with passion" 🚀
+> "Learn deeply, build meaningfully, and improve continuously." 🚀
 > 
-> I believe in writing clean, maintainable code and building applications that solve real-world problems. Every project is an opportunity to learn, innovate, and make a positive impact.
+> I believe every line of code should have a clear purpose. My goal is to create clean, useful, and user-friendly applications while continuously learning, solving problems, and growing as a developer.
 
 ---
 
